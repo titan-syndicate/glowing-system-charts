@@ -3,7 +3,7 @@ entries:
   next-app-chart:
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2023-08-30T17:46:11.200467296Z"
+    created: "2023-08-30T18:20:17.924243424Z"
     description: A Helm chart for Kubernetes
     digest: a7d7b5ea3d0c737877e6e4405293df240b6d8f2649765f06ca9033b27b5c3c03
     name: next-app-chart
@@ -12,8 +12,18 @@ entries:
     - https://titan-syndicate.github.io/glowing-system-charts/next-app-chart-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v2
+    appVersion: f89758c571272b9e35efdbf3cdd8b1d4ed99d1f3
+    created: "2023-08-30T18:20:17.924047299Z"
+    description: A Helm chart for Kubernetes
+    digest: de97ce2842c5695730e962c3b9750ab81ca37b8ecf8013e1bf8dc8a2f94eb31d
+    name: next-app-chart
+    type: application
+    urls:
+    - https://titan-syndicate.github.io/glowing-system-charts/next-app-chart-0.0.2-alpha.2.tgz
+    version: 0.0.2-alpha.2
+  - apiVersion: v2
     appVersion: 91290f664f9348c9755dec1239a6b8ff3b0fec87
-    created: "2023-08-30T17:46:11.200278754Z"
+    created: "2023-08-30T18:20:17.923873216Z"
     description: A Helm chart for Kubernetes
     digest: 4d6d8b868248c695d4e601e1940d68118da71afe8106098c6044f702290cebf2
     name: next-app-chart
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://titan-syndicate.github.io/glowing-system-charts/next-app-chart-0.0.2-alpha.1.tgz
     version: 0.0.2-alpha.1
-generated: "2023-08-30T17:46:11.199960671Z"
+generated: "2023-08-30T18:20:17.923584132Z"
